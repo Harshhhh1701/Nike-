@@ -1,5 +1,5 @@
 import Title from "../../components/Title"
-import Story from "./story";
+import Story from "./Story";
 import { Splide, SplideSlide } from '@splidejs/react-splide';
 import '@splidejs/react-splide/css';
 
