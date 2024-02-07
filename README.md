@@ -1,7 +1,7 @@
 # AMAZING LANDING PAGE FEATURED NIKE🚀😎
 
 ## DEPLOYED LINK
-### 
+### https://nike-sage.vercel.app/
 
 ## TECHNOLOGIES USED
 #### REACT, REDUX, TAILWIND CSS
